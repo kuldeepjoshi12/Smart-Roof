@@ -12,12 +12,12 @@ When the system detects rain, it automatically activates a motorized mechanism t
 
 The Smart Roof project combines:
 
-- 🌧️ Rain Detection
-- ⚙️ Motorized Automation
-- 🤖 Microcontroller Control
-- 🔌 Electronics
-- 🏠 Home Automation
-- 🌱 Smart & Practical Technology
+- Rain Detection
+- Motorized Automation
+- Microcontroller Control
+- Electronics
+- Home Automation
+- Smart & Practical Technology
 
 The system continuously monitors the environment using a rain sensor. When rain is detected, the controller processes the sensor signal and activates the motor mechanism automatically.
 
@@ -127,7 +127,7 @@ Limit Switches
 Limit Switch 1 → Arduino Digital Input
 Limit Switch 2 → Arduino Digital Input
 
-> ⚠️ Important: Never connect a DC motor directly to an Arduino GPIO pin. Use a suitable motor driver and an appropriately rated external power supply.
+>  Important: Never connect a DC motor directly to an Arduino GPIO pin. Use a suitable motor driver and an appropriately rated external power supply.
 
 
 
@@ -136,21 +136,21 @@ Limit Switch 2 → Arduino Digital Input
 
 • Features:
 
-🌧️ Automatic rain detection
+- Automatic rain detection
 
-⚙️ Automatic motorized movement
+- Automatic motorized movement
 
-🏠 Protects clothes from unexpected rain
+- Protects clothes from unexpected rain
 
-🔄 Automatic return mechanism
+- Automatic return mechanism
 
-🛑 Limit-switch-based position control
+- Limit-switch-based position control
 
-🤖 Microcontroller-based automation
+- Microcontroller-based automation
 
-💡 Suitable for smart-home applications
+- Suitable for smart-home applications
 
-🔧 Easy to customize
+- Easy to customize
 
 
 
@@ -242,25 +242,25 @@ The prototype needs further testing before real-world deployment.
 
 Future versions of Smart Roof can include:
 
-📱 Mobile App Control
+- Mobile App Control
 
-🌐 IoT Connectivity
+- IoT Connectivity
 
-☁️ Weather Forecast Integration
+- Weather Forecast Integration
 
-🔔 Rain Notifications
+- Rain Notifications
 
-🌡️ Temperature & Humidity Sensors
+- Temperature & Humidity Sensors
 
-☀️ Solar Power
+- Solar Power
 
-🤖 Automatic Weather-Based Decisions
+- Automatic Weather-Based Decisions
 
-🛡️ Obstacle Detection
+- Obstacle Detection
 
-📊 Cloud-Based Monitoring
+- Cloud-Based Monitoring
 
-🔋 Energy-Efficient Motor Control
+- Energy-Efficient Motor Control
 
 
 
