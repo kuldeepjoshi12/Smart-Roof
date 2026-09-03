@@ -8,7 +8,7 @@ When the system detects rain, it automatically activates a motorized mechanism t
 
 ---
 
-# 🚀 Project Overview
+#  Project Overview
 
 The Smart Roof project combines:
 
@@ -23,7 +23,7 @@ The system continuously monitors the environment using a rain sensor. When rain 
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 - Detect rainfall automatically.
 - Protect outdoor-drying clothes from sudden rain.
@@ -34,7 +34,7 @@ The system continuously monitors the environment using a rain sensor. When rain 
 
 ---
 
-# ⚙️ How It Works
+#  How It Works
 
 ```text
         🌧️ Rain
